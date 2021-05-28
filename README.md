@@ -5,7 +5,7 @@
 1. Request a username and password from https://docs.quandl.com/docs/in-depth-usage
 2. Create a passwords.csv file with the API key
 3. Change the variable source_dir to represent your directory path
-
+<br>
 ## Description
 - Explored whether changes in the US bee population, represented by the reported number of commercial bee colonies, could affect the supply of bee-pollinated produce and price indexes overtime compared to that of control commodities.
 
