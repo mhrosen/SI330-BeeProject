@@ -1,6 +1,6 @@
 # SI330-BeeProject
 
-Instructions:<br>
+Instructions:<br><br>
 <em>Before running the code you must:</em>
 1. Request a username and password from https://docs.quandl.com/docs/in-depth-usage
 2. Create a passwords.csv file with the API key
